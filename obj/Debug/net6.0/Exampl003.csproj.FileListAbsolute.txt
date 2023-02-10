@@ -1,0 +1,15 @@
+C:\Users\elizaveta\ExampL\Exampl003\bin\Debug\net6.0\Exampl003.exe
+C:\Users\elizaveta\ExampL\Exampl003\bin\Debug\net6.0\Exampl003.deps.json
+C:\Users\elizaveta\ExampL\Exampl003\bin\Debug\net6.0\Exampl003.runtimeconfig.json
+C:\Users\elizaveta\ExampL\Exampl003\bin\Debug\net6.0\Exampl003.dll
+C:\Users\elizaveta\ExampL\Exampl003\bin\Debug\net6.0\Exampl003.pdb
+C:\Users\elizaveta\ExampL\Exampl003\obj\Debug\net6.0\Exampl003.csproj.AssemblyReference.cache
+C:\Users\elizaveta\ExampL\Exampl003\obj\Debug\net6.0\Exampl003.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\elizaveta\ExampL\Exampl003\obj\Debug\net6.0\Exampl003.AssemblyInfoInputs.cache
+C:\Users\elizaveta\ExampL\Exampl003\obj\Debug\net6.0\Exampl003.AssemblyInfo.cs
+C:\Users\elizaveta\ExampL\Exampl003\obj\Debug\net6.0\Exampl003.csproj.CoreCompileInputs.cache
+C:\Users\elizaveta\ExampL\Exampl003\obj\Debug\net6.0\Exampl003.dll
+C:\Users\elizaveta\ExampL\Exampl003\obj\Debug\net6.0\refint\Exampl003.dll
+C:\Users\elizaveta\ExampL\Exampl003\obj\Debug\net6.0\Exampl003.pdb
+C:\Users\elizaveta\ExampL\Exampl003\obj\Debug\net6.0\Exampl003.genruntimeconfig.cache
+C:\Users\elizaveta\ExampL\Exampl003\obj\Debug\net6.0\ref\Exampl003.dll
